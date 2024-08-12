@@ -1,4 +1,13 @@
-## Hi there 👋
+### Nice to meet you
+
+### Experienced UX designer pursuing his passion for software & technology
+
+Software Engineering Student at [42 Berlin](https://42berlin.de/de/);<br>
+Former UX Designer & Teamlead at [OSK Berlin](https://www.oskberlin.com/);<br>
+
+- Fluent in: `.c`, `.cpp`, `.js`, `.html`, `.css`, `.sketch`, `.fig`, `.ai`
+- Designed: [Mercedes-Benz Media](https://media.mercedes-benz.com/), [Engine AR App](https://www.osk.de/en/projects/ar-app-erklaert-achtzylinder/), [ZF.com](https://www.zf.com/), etc…
+- ping me about **software engineering**, **ux design**, **design thinking**
 
 <!--
 **jakobsitory/jakobsitory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
