@@ -2,7 +2,7 @@
 
 ### Experienced UX Designer pursuing his passion for software & technology
 
-Software Engineering Student at [42 Berlin](https://42berlin.de/de/);<br>
+Software Engineering Student at [42 Berlin](https://42berlin.de/);<br>
 Former UX Designer & Teamlead at [OSK Berlin](https://www.oskberlin.com/);<br>
 
 - Fluent in: `.c`, `.cpp`, `.js`, `.html`, `.css`, `.sketch`, `.fig`, `.ai`
