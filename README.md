@@ -2,7 +2,7 @@
 
 ### Experienced UX Designer pursuing his passion for software & technology
 
-Design Engineer at [Formbricks](https://formbricks.com)<br>
+COntributor at [Formbricks](https://formbricks.com)<br>
 Software Engineering Graduate at [42 Berlin](https://42berlin.de/)<br>
 Former UX Designer & Teamlead at [OSK Berlin](https://www.oskberlin.com/)<br>
 
