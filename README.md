@@ -1,11 +1,12 @@
 # Hi, I am Jakob
 
-### Experienced UX Designer pursuing his passion for software & technology
+### An experienced UX Designer pursuing his passion for software & technology
 
-Software Engineering Graduate at [42 Berlin](https://42berlin.de/)<br>
-Former UX Designer & Teamlead at [OSK Berlin](https://www.oskberlin.com/)<br>
+Former **Design** and **Frontend Engineer** at [Formbricks](https://formbricks.com/)
+**Software Engineering Graduate** at [42 Berlin](https://42berlin.de/)<br>
+Former **UX Designer & Teamlead** at [OSK Berlin](https://www.oskberlin.com/)<br>
 
-- Fluent in: `.tsx`, `.js`, `.c`, `.cpp`, `.ts`, `.html`, `.css`, `.go`, `.sketch`, `.fig`
+- Fluent in: `.ts`, `.js`, `.c`, `.cpp`, `.tsx`, `.R`, `.html`, `.css`, `.go`, `.sketch`, `.fig`
 - Contributing: [Formbricks](https://github.com/formbricks)
 - Designed: [Mercedes-Benz Media](https://media.mercedes-benz.com/), [Engine AR App](https://www.osk.de/en/projects/ar-app-erklaert-achtzylinder/), [ZF.com](https://www.zf.com/), etc…
 - Built: [A Full-Stack React / Node.js App](https://github.com/jakobsitory/full-stack-open), [A Pong clone](https://github.com/theozanchi/42_Berlin_ft_transcendence), [my own webserver](https://github.com/emollebr/webserv), [A 3D Wireframe Visualizer](https://github.com/jakobsitory/02_FdF_42CC) and a lot more you'll find in my [repositories](https://github.com/jakobsitory?tab=repositories)
