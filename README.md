@@ -2,15 +2,14 @@
 
 ### Experienced UX Designer pursuing his passion for software & technology
 
-COntributor at [Formbricks](https://formbricks.com)<br>
 Software Engineering Graduate at [42 Berlin](https://42berlin.de/)<br>
 Former UX Designer & Teamlead at [OSK Berlin](https://www.oskberlin.com/)<br>
 
-- Fluent in: `.tsx`, `.c`, `.cpp`, `.js`, `.ts`, `.html`, `.css`, `.go`, `.sketch`, `.fig`
+- Fluent in: `.tsx`, `.js`, `.c`, `.cpp`, `.ts`, `.html`, `.css`, `.go`, `.sketch`, `.fig`
 - Contributing: [Formbricks](https://github.com/formbricks)
 - Designed: [Mercedes-Benz Media](https://media.mercedes-benz.com/), [Engine AR App](https://www.osk.de/en/projects/ar-app-erklaert-achtzylinder/), [ZF.com](https://www.zf.com/), etc…
-- Built: [A Pong clone](https://github.com/theozanchi/42_Berlin_ft_transcendence), [my own webserver](https://github.com/emollebr/webserv), [A 3D Wireframe Visualizer](https://github.com/jakobsitory/02_FdF_42CC) and a lot more you'll find in my [repositories](https://github.com/jakobsitory?tab=repositories)
-- ping me about **software engineering**, **ux design**, **design thinking**
+- Built: [A Full-Stack React / Node.js App](https://github.com/jakobsitory/full-stack-open), [A Pong clone](https://github.com/theozanchi/42_Berlin_ft_transcendence), [my own webserver](https://github.com/emollebr/webserv), [A 3D Wireframe Visualizer](https://github.com/jakobsitory/02_FdF_42CC) and a lot more you'll find in my [repositories](https://github.com/jakobsitory?tab=repositories)
+- ping me about **software engineering**, **geoinformatics**, **ux design**, **design thinking**
 
 <!--
 **jakobsitory/jakobsitory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
