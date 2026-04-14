@@ -2,7 +2,7 @@
 
 ### An experienced UX Designer pursuing his passion for software & technology
 
-Former **Design** and **Frontend Engineer** at [Formbricks](https://formbricks.com/)
+Former **Design** and **Frontend Engineer** at [Formbricks](https://formbricks.com/)<br>
 **Software Engineering Graduate** at [42 Berlin](https://42berlin.de/)<br>
 Former **UX Designer & Teamlead** at [OSK Berlin](https://www.oskberlin.com/)<br>
 
